@@ -5,7 +5,7 @@
   "ALWAYS_ONLINE": "false",
   "FAKE_RECORDING": "false",
   "AUTO_READ_STATUS": "false",
-  "PREFIX": ".",
+  "PREFIX": "!",
   "ANTI_LINK": "true"
 }
   
