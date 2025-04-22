@@ -2,7 +2,7 @@ name: prince-mdxi
 services:
   - name: prince-mdxi-service
     type: web
-    ports:
+    ports:on
       - 5000
     routes:
       - path: "/"
